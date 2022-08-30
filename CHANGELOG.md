@@ -1,45 +1,45 @@
+## [0.71.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.71.0...v0.71.1) (2022-08-29)
+
+
+### Bug Fixes
+
+* github actions to be scoped ([#1685](https://github.com/EddieHubCommunity/LinkFree/issues/1685)) ([d625b94](https://github.com/EddieHubCommunity/LinkFree/commit/d625b94ef94367caaf6c578acb4c9eb6df4e5978))
+
+
+
+# [0.71.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.70.20...v0.71.0) (2022-08-29)
+
+
+### Features
+
+* kubescape action ([#1683](https://github.com/EddieHubCommunity/LinkFree/issues/1683)) ([4b780a4](https://github.com/EddieHubCommunity/LinkFree/commit/4b780a460e55452d4c53ca1bce37e7241b32bc91))
+
+
+
+## [0.70.20](https://github.com/EddieHubCommunity/LinkFree/compare/v0.70.19...v0.70.20) (2022-08-29)
+
+
+### Bug Fixes
+
+* why is my profile not visible ([fd74662](https://github.com/EddieHubCommunity/LinkFree/commit/fd74662222fefcc7d5bcdd9c9e7b515eea1152aa))
+
+
+
+## [0.70.19](https://github.com/EddieHubCommunity/LinkFree/compare/v0.70.18...v0.70.19) (2022-08-26)
+
+
+### Bug Fixes
+
+* Dockerfile npm command ([#1625](https://github.com/EddieHubCommunity/LinkFree/issues/1625)) ([c6eae67](https://github.com/EddieHubCommunity/LinkFree/commit/c6eae67f79813ae567b10c35071d3749423f2378))
+
+
+
 ## [0.70.18](https://github.com/EddieHubCommunity/LinkFree/compare/v0.70.17...v0.70.18) (2022-08-19)
 
 
 ### Bug Fixes
 
 * Added open-source icon ([#1599](https://github.com/EddieHubCommunity/LinkFree/issues/1599)) ([15d3163](https://github.com/EddieHubCommunity/LinkFree/commit/15d31634849647977280f3959c89180d2e2ba4ab))
-
-
-
-## [0.70.17](https://github.com/EddieHubCommunity/LinkFree/compare/v0.70.16...v0.70.17) (2022-08-08)
-
-
-### Bug Fixes
-
-* update Anushka-codergirl.json ([#1583](https://github.com/EddieHubCommunity/LinkFree/issues/1583)) ([f3deafe](https://github.com/EddieHubCommunity/LinkFree/commit/f3deafe5e15c303a84440db359aea24a6e4a2b5f))
-
-
-
-## [0.70.16](https://github.com/EddieHubCommunity/LinkFree/compare/v0.70.15...v0.70.16) (2022-08-04)
-
-
-### Bug Fixes
-
-* formatting json file ([bfae82a](https://github.com/EddieHubCommunity/LinkFree/commit/bfae82a748901533c1c3cabcc69159ca2eed2d20))
-
-
-
-## [0.70.15](https://github.com/EddieHubCommunity/LinkFree/compare/v0.70.14...v0.70.15) (2022-08-04)
-
-
-### Bug Fixes
-
-* lubnafathima more data ([#1571](https://github.com/EddieHubCommunity/LinkFree/issues/1571)) ([e425573](https://github.com/EddieHubCommunity/LinkFree/commit/e4255732491582d3aa4c0dc2a133b2489fc9ea6e))
-
-
-
-## [0.70.14](https://github.com/EddieHubCommunity/LinkFree/compare/v0.70.13...v0.70.14) (2022-08-03)
-
-
-### Bug Fixes
-
-* Update vedanshi555 username ([#1563](https://github.com/EddieHubCommunity/LinkFree/issues/1563)) ([0247cf3](https://github.com/EddieHubCommunity/LinkFree/commit/0247cf3a7f1af2f2af1f44a30b0e633d7de5030a))
 
 
 
